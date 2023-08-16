@@ -1,18 +1,20 @@
 /*
 Alejandro Rodriguez del Bosque - A01722329
 TC1031 - Programacion de estructuras de datos y algoritmos fundamentales
-Actividad 1.1
+10 de Agosto 2023
+
+Calcula la sumatoria de todos los numeros de 1 hasta n
+utilizando metodos iterativos, recursivos y directos
 */
 
 #include <iostream>
 using namespace std;
 
 // Declaracion de las funciones que se van a utilizar
-int sumaAlterativa(int sum);
+int sumaIterativa(int sum);
 int sumaRecursiva(int sum);
 int sumaDirecta(int sum);
 
-// Metodo main para correr los datos y casos de prueba
 int main() {
 
   int testValue = -1;
@@ -24,7 +26,7 @@ int main() {
     cout << endl;
   }
 
-  int alt = sumaAlterativa(testValue);
+  int alt = sumaIterativa(testValue);
   int rec = sumaRecursiva(testValue);
   int dir = sumaDirecta(testValue);
 
@@ -33,7 +35,17 @@ int main() {
   cout << "Directa: " << dir << endl;
 }
 
-int sumaAlterativa(int sum) {
+/* 
+* Calcula la suma de 1 hasta el numero deseado usando un metodo iterativo
+*
+*@Param (int sum) Valor deseado de la suma
+*
+*@return la suma de todos los valores de 1 a el valor deseado
+*
+*Complejidad de tiempo: O(n)
+*Complejidad de espacio: O(1)
+*/
+int sumaIterativa(int sum) {
   int res = 0;
 
   // Se usa un for-loop para ir agregando numeros del i al sum. 
@@ -44,9 +56,20 @@ int sumaAlterativa(int sum) {
   return res;
 }
 
+/* 
+* Calcula la suma de 1 hasta el numero deseado usando recursion
+*
+*@Param (int sum) Valor deseado de la suma
+*
+*@return la suma de todos los valores de 1 a el valor deseado
+*
+*Complejidad de tiempo: O(n)
+*Complejidad de espacio: O(n)
+*/
 int sumaRecursiva(int sum) {
+  
   // Condicion de salida
-  if(sum <= 0){
+  if(sum <= 0){ 
     return 0;
   }
 
@@ -56,7 +79,16 @@ int sumaRecursiva(int sum) {
   return res;
 }
 
+/* 
+* Calcula la suma de 1 hasta el numero deseado usando un metodo directo
+*
+*@Param (int sum) Valor deseado de la suma
+*
+*@return la suma de todos los valores de 1 a el valor deseado
+*
+*Complejidad de tiempo: O(1)
+*Complejidad de espacio: O(1)
+*/
 int sumaDirecta(int sum){
-  // Usa la formula (n*[n+1])/2 = x para calcular el valor final
   return (sum*(sum+1))/2;
 }
