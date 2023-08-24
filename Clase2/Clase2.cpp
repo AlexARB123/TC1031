@@ -1,10 +1,19 @@
 #include <iostream>
 using namespace std;
 
-<typename> T
+int factorial(int n);
 
-int main()
-{
-    cout << "Hello World!\n";
+int main(void){
+
+    int x = factorial(5);
+    cout << x;
 }
 
+int factorial(int n){
+    
+    if(n == 1){
+        return 1;
+    }
+
+    return n * factorial(n-1);
+}
