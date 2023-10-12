@@ -1,11 +1,10 @@
 /*
+Alejandro Rodriguez del Bosque - A01722329
+
 Como voy a solucionar el problema:
-Voy a utilizar un Stack para checar la repeticion de palabras.
-La idea es ir fragmentando un Stack por segmento de oracion incluyendo el separador.
-Para hacer eso creare una lista ligada de tipo stack para irlos separando por separador
-Asi mismo, voy a usar un metodo para ir eliminando todas las palabras que van repetidas seguidas dentro del objeto stack
-La idea es que encuentre una palabra, resuelva todas las que estan seguidas y vuelva a checar palabra anterior para ver si esta repetida
-Idealmente, complejidad de O(n)
+Voy a usar una linked list para tener todos los valores de los strings
+Usando un stack, voy a checar si se ocupa borrar un elemento o no y al final voy a regresar todos esos elementos a la linked list
+que me dara el resultado
 */
 
 #include <iostream>
@@ -30,6 +29,7 @@ template <class T>
 class LinkedList {
 private:
     Node<T>* head;
+    Node<T>* tail;
     int size;
 public:
     LinkedList() {
@@ -50,6 +50,7 @@ public:
             head = new_node;
             cout << "Successfully added " << head->data << " to the head of the linked list" << endl;
             size++;
+            tail = new_node;
         }
         else {
             Node<T>* current = head;
@@ -58,9 +59,31 @@ public:
             }
             current->next = new_node;
             cout << "Successfully added " << current->next->data << " to the linked list" << endl;
+            tail = new_node;
             size++;
         }
         
+    }
+    /*
+    * @brief Agrega un nuevo elemento al principio de la lista
+    * 
+    * @param valor a agregar
+    * @return No tiene valor de retorno
+    * @complexity Tiempo: O(1)
+    */
+    void createAtBeginning(T value){
+        Node<T>* new_node = new Node<T>(value);
+        if (head == nullptr) {
+            head = new_node;
+            cout << "Successfully added " << head->data << " to the head of the linked list" << endl;
+            size++;
+            tail = new_node;
+        }
+        else{
+            Node* tmp = head;
+            head = new_node;
+            new_node->next = tmp;
+        }
     }
     
     /*
@@ -168,6 +191,134 @@ public:
     }
 };
 
+template <typename T>
+class Stack {
+    private:
+    struct Node {
+        T data;
+        Node* next;
+        Node(const T& value) : data(value), next(nullptr) {}
+    };
+    Node* topNode;
+
+    public:
+        Stack() : topNode(nullptr) {}
+
+        ~Stack() {
+            while (!isEmpty()) {
+                pop();
+            }
+        }
+
+        bool isEmpty() const {
+            return topNode == nullptr;
+        }
+
+        void push(const T& value) {
+            Node* newNode = new Node(value);
+            newNode->next = topNode;
+            topNode = newNode;
+        }
+
+        void pop() {
+            if (isEmpty()) {
+                std::cerr << "Error: Trying to pop from an empty stack." << std::endl;
+                return;
+            }
+            Node* temp = topNode;
+            topNode = topNode->next;
+            delete temp;
+        }
+
+        T& top() {
+            if (isEmpty()) {
+                cerr << "Error: Trying to access the top element of an empty stack.";
+                return topNode->data;
+            }
+            return topNode->data;
+        }
+};
+
+/*
+    * @brief Provee un string y separa cada linea por palabra
+    * 
+    * @param toRead: lista a llenar
+    * @param line: linea a la que se separara
+    * @return No tiene valor de retorno
+    * @complexity Tiempo: O(n)
+    */
+void read(LinkedList<string>& toRead, string line){
+    
+    int currChar = 0;
+    int stringSize = line.size();
+    // For loop donde voy a correr mi code
+    for(int i = 0; i < stringSize; i = currChar){
+        
+        // Encontrar curr string
+        string currString = "";
+
+        while(line[currChar] != ' '){
+            currString = currString + line[currChar];
+            currChar ++;
+            
+            if(currChar >= stringSize){
+                toRead.create(currString);
+                break;
+            }
+
+            toRead.create(currString);
+            currChar++;
+            currString = "";
+        }
+    }
+}
+
+/*
+    * @brief Sortea el nuevo Linked List aplicando las condiciones
+    * 
+    * @param res: Lista para llenar resultado
+    * @param line: Lista para leer objetos
+    * @param key: string que determina cambio de linea
+    * @return No tiene valor de retorno
+    * @complexity Tiempo: O(n)
+*/
+void arrange(LinkedList<T>& res, string key, LinkedList<T>& line){
+    Stack thisStack<string>;
+
+    Node* currNode = line.head;
+    
+    // Traversar toda la linked list
+    while(currNode->next != nullptr){
+        
+        // Checar que la siguiente linea no sea el key
+        if(currNode->data == key){
+            LinkedList<string> elementsToAdd;
+            // Borrar currentStack completamente y agregar los elementos en el stack a la LinkedList
+            while(!thisStack.isEmpty()){
+                string curr = thisStack.top();
+                elementsToAdd.createAtBeginning(curr);
+                thisStack.pop();
+            }
+
+            for(Node* current = elementsToAdd.head; current; current = current->next){
+                res.create(current->data);
+            }
+        }
+
+        // Checar que el elemento no sea igual al elemento que actualmente se habita en esa posicion
+        if(currNode ->data == thisStack.top()){
+            
+            // Si es igual voy saltando todos los que siguen que sean igual
+            while(currNode->data == thisStack.top()){
+                currNode = currNode->next;
+            }
+        }
+        // Si el elemento no es igual al anterior, agregar el anterior al Stack
+        else{
+            thisStack.push(currNode->data);
+        }
+    }
+}
 int main(){
     cout << "Separador: ";
     string separador = "";  
@@ -176,6 +327,13 @@ int main(){
     cin.clear();
 
     cout << "Input Line: \n";
-    string line;
+    string line = "B A C A B";
     getline(cin, line);
+
+    line = "B A C A B";
+    LinkedList<string> entry;
+    read(entry,line);
+    LinkedList<string> entry;
+    arrange(res,key,test)
+    test.print();
 }

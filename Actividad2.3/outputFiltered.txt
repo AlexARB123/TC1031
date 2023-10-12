@@ -1,0 +1,269 @@
+2020 Mar 01 09:19:18 | IP: 154.164.237.242 | INFO: User accessed homepage
+2020 Mar 01 10:36:03 | IP: 30.123.138.244 | INFO: User accessed homepage
+2020 Mar 01 10:19:28 | IP: 20.144.248.2 | INFO: User clicked on product
+2020 Mar 01 13:59:23 | IP: 103.90.253.71 | INFO: User completed a purchase
+2020 Mar 01 13:51:31 | IP: 141.180.232.137 | INFO: User clicked on product
+2020 Mar 01 13:26:04 | IP: 195.43.100.17 | INFO: User searched for item
+2020 Mar 01 13:29:57 | IP: 194.113.16.126 | INFO: User completed a purchase
+2020 Mar 01 14:17:32 | IP: 232.204.13.10 | INFO: User completed a purchase
+2020 Mar 02 00:13:24 | IP: 246.74.229.79 | INFO: User searched for item
+2020 Mar 02 00:36:06 | IP: 82.223.96.232 | INFO: User clicked on product
+2020 Mar 02 01:20:45 | IP: 100.70.169.106 | INFO: User accessed homepage
+2020 Mar 02 04:09:48 | IP: 227.114.85.248 | INFO: User clicked on product
+2020 Mar 02 05:18:38 | IP: 142.101.110.61 | INFO: User searched for item
+2020 Mar 02 06:06:19 | IP: 191.146.196.88 | INFO: User clicked on product
+2020 Mar 02 08:19:59 | IP: 111.44.24.213 | INFO: User clicked on product
+2020 Mar 02 09:33:39 | IP: 90.38.228.0 | INFO: User accessed homepage
+2020 Mar 02 12:42:13 | IP: 233.140.192.237 | INFO: User accessed homepage
+2020 Mar 02 13:35:55 | IP: 20.202.210.33 | INFO: User clicked on product
+2020 Mar 02 13:18:13 | IP: 235.164.193.240 | INFO: User searched for item
+2020 Mar 02 14:37:11 | IP: 20.19.132.128 | INFO: User completed a purchase
+2020 Mar 02 15:45:32 | IP: 203.39.195.193 | INFO: User clicked on product
+2020 Mar 02 18:51:58 | IP: 198.73.58.40 | INFO: User completed a purchase
+2020 Mar 02 18:54:12 | IP: 207.5.60.246 | INFO: User searched for item
+2020 Mar 02 23:59:48 | IP: 64.169.129.88 | INFO: User searched for item
+2020 Mar 03 01:10:47 | IP: 230.34.238.37 | INFO: User completed a purchase
+2020 Mar 03 05:51:03 | IP: 140.43.23.2 | INFO: User clicked on product
+2020 Mar 03 05:18:07 | IP: 153.83.104.34 | INFO: User searched for item
+2020 Mar 03 08:12:44 | IP: 243.64.128.243 | INFO: User accessed homepage
+2020 Mar 03 11:12:05 | IP: 126.207.113.27 | INFO: User searched for item
+2020 Mar 03 12:05:09 | IP: 25.49.82.152 | INFO: User clicked on product
+2020 Mar 03 17:20:45 | IP: 25.105.228.35 | INFO: User clicked on product
+2020 Mar 04 00:42:04 | IP: 139.9.161.55 | INFO: User accessed homepage
+2020 Mar 04 07:38:18 | IP: 52.250.42.10 | INFO: User clicked on product
+2020 Mar 04 08:49:06 | IP: 225.6.23.158 | INFO: User completed a purchase
+2020 Mar 04 20:25:20 | IP: 238.68.228.219 | INFO: User clicked on product
+2020 Mar 04 20:21:00 | IP: 27.122.105.145 | INFO: User accessed homepage
+2020 Mar 04 20:42:00 | IP: 215.225.206.137 | INFO: User clicked on product
+2020 Mar 04 21:51:43 | IP: 72.163.129.165 | INFO: User completed a purchase
+2020 Mar 04 22:34:18 | IP: 208.49.67.95 | INFO: User clicked on product
+2020 Mar 04 23:15:12 | IP: 124.124.127.48 | INFO: User accessed homepage
+2020 Mar 05 04:00:57 | IP: 115.186.237.225 | INFO: User clicked on product
+2020 Mar 05 07:20:00 | IP: 170.188.186.85 | INFO: User accessed homepage
+2020 Mar 05 08:03:19 | IP: 4.223.13.168 | INFO: User clicked on product
+2020 Mar 05 12:14:41 | IP: 86.241.1.64 | INFO: User clicked on product
+2020 Mar 05 16:15:09 | IP: 185.247.237.120 | INFO: User accessed homepage
+2020 Mar 05 17:08:09 | IP: 142.188.208.18 | INFO: User clicked on product
+2020 Mar 05 20:09:53 | IP: 64.253.180.201 | INFO: User searched for item
+2020 Mar 05 21:17:06 | IP: 118.84.172.62 | INFO: User clicked on product
+2020 Mar 05 22:47:39 | IP: 114.5.136.191 | INFO: User completed a purchase
+2020 Mar 06 01:42:28 | IP: 116.174.130.168 | INFO: User completed a purchase
+2020 Mar 06 03:51:00 | IP: 157.194.164.194 | INFO: User completed a purchase
+2020 Mar 06 07:40:15 | IP: 255.74.138.168 | INFO: User accessed homepage
+2020 Mar 06 12:21:12 | IP: 84.7.189.80 | INFO: User accessed homepage
+2020 Mar 06 16:30:24 | IP: 44.192.106.93 | INFO: User accessed homepage
+2020 Mar 07 00:48:05 | IP: 34.92.182.135 | INFO: User completed a purchase
+2020 Mar 07 05:02:33 | IP: 192.171.123.12 | INFO: User searched for item
+2020 Mar 07 05:56:52 | IP: 4.135.71.254 | INFO: User searched for item
+2020 Mar 07 05:07:59 | IP: 19.161.33.204 | INFO: User searched for item
+2020 Mar 07 15:39:08 | IP: 211.145.30.233 | INFO: User clicked on product
+2020 Mar 07 15:48:30 | IP: 120.160.92.94 | INFO: User clicked on product
+2020 Mar 07 15:06:56 | IP: 64.180.84.29 | INFO: User completed a purchase
+2020 Mar 07 23:08:04 | IP: 101.76.184.147 | INFO: User clicked on product
+2020 Mar 08 05:50:36 | IP: 4.64.4.112 | INFO: User searched for item
+2020 Mar 08 08:08:31 | IP: 45.43.127.173 | INFO: User clicked on product
+2020 Mar 08 10:22:46 | IP: 166.9.119.206 | INFO: User clicked on product
+2020 Mar 08 15:51:46 | IP: 117.25.210.48 | INFO: User accessed homepage
+2020 Mar 08 19:33:40 | IP: 33.164.181.82 | INFO: User accessed homepage
+2020 Mar 09 05:31:00 | IP: 32.109.97.89 | INFO: User completed a purchase
+2020 Mar 09 08:21:10 | IP: 221.133.195.39 | INFO: User accessed homepage
+2020 Mar 09 08:13:52 | IP: 35.254.175.194 | INFO: User clicked on product
+2020 Mar 09 09:07:47 | IP: 76.159.12.28 | INFO: User accessed homepage
+2020 Mar 09 09:43:28 | IP: 140.150.205.20 | INFO: User accessed homepage
+2020 Mar 09 10:57:41 | IP: 226.19.112.66 | INFO: User clicked on product
+2020 Mar 09 16:03:11 | IP: 151.211.208.45 | INFO: User accessed homepage
+2020 Mar 09 16:43:59 | IP: 192.62.218.74 | INFO: User clicked on product
+2020 Mar 09 16:57:02 | IP: 56.188.78.178 | INFO: User clicked on product
+2020 Mar 10 00:21:54 | IP: 111.76.244.41 | INFO: User searched for item
+2020 Mar 10 02:39:36 | IP: 76.56.12.25 | INFO: User completed a purchase
+2020 Mar 10 06:03:19 | IP: 54.2.22.79 | INFO: User searched for item
+2020 Mar 10 08:10:04 | IP: 81.245.32.194 | INFO: User searched for item
+2020 Mar 10 10:22:27 | IP: 178.249.64.185 | INFO: User accessed homepage
+2020 Mar 10 10:28:23 | IP: 37.89.145.106 | INFO: User accessed homepage
+2020 Mar 10 14:01:37 | IP: 7.171.220.129 | INFO: User completed a purchase
+2020 Mar 10 15:39:59 | IP: 64.36.227.96 | INFO: User clicked on product
+2020 Mar 10 19:04:44 | IP: 27.187.236.118 | INFO: User searched for item
+2020 Mar 11 00:02:38 | IP: 238.213.101.13 | INFO: User searched for item
+2020 Mar 11 04:48:26 | IP: 110.35.46.220 | INFO: User searched for item
+2020 Mar 11 07:47:20 | IP: 7.241.74.28 | INFO: User clicked on product
+2020 Mar 11 20:10:06 | IP: 161.248.78.114 | INFO: User completed a purchase
+2020 Mar 12 03:58:49 | IP: 115.136.239.63 | INFO: User clicked on product
+2020 Mar 12 05:15:47 | IP: 62.254.48.203 | INFO: User completed a purchase
+2020 Mar 12 06:43:58 | IP: 73.118.72.170 | INFO: User completed a purchase
+2020 Mar 12 11:13:27 | IP: 76.161.115.236 | INFO: User accessed homepage
+2020 Mar 12 17:45:46 | IP: 233.228.157.101 | INFO: User clicked on product
+2020 Mar 12 20:13:38 | IP: 81.19.186.119 | INFO: User clicked on product
+2020 Mar 12 22:16:29 | IP: 231.133.198.89 | INFO: User completed a purchase
+2020 Mar 13 00:33:58 | IP: 69.177.186.43 | INFO: User clicked on product
+2020 Mar 13 04:09:17 | IP: 199.127.180.0 | INFO: User accessed homepage
+2020 Mar 13 05:18:08 | IP: 127.103.41.209 | INFO: User accessed homepage
+2020 Mar 13 10:27:35 | IP: 239.40.84.246 | INFO: User clicked on product
+2020 Mar 13 14:06:09 | IP: 58.142.179.16 | INFO: User clicked on product
+2020 Mar 13 16:19:21 | IP: 91.36.183.111 | INFO: User completed a purchase
+2020 Mar 13 23:29:23 | IP: 150.206.163.220 | INFO: User searched for item
+2020 Mar 13 23:50:23 | IP: 232.59.86.198 | INFO: User clicked on product
+2020 Mar 14 00:18:57 | IP: 116.115.59.125 | INFO: User completed a purchase
+2020 Mar 14 03:20:31 | IP: 92.1.154.172 | INFO: User completed a purchase
+2020 Mar 14 03:47:55 | IP: 203.216.107.129 | INFO: User clicked on product
+2020 Mar 14 06:48:24 | IP: 183.10.202.50 | INFO: User clicked on product
+2020 Mar 14 07:14:34 | IP: 187.11.12.23 | INFO: User accessed homepage
+2020 Mar 14 17:38:29 | IP: 212.125.250.103 | INFO: User searched for item
+2020 Mar 14 20:49:10 | IP: 67.157.120.33 | INFO: User clicked on product
+2020 Mar 14 20:57:08 | IP: 28.141.123.29 | INFO: User completed a purchase
+2020 Mar 14 20:51:11 | IP: 202.236.141.172 | INFO: User completed a purchase
+2020 Mar 14 21:37:45 | IP: 167.225.237.231 | INFO: User accessed homepage
+2020 Mar 15 03:29:33 | IP: 66.74.188.47 | INFO: User searched for item
+2020 Mar 15 07:36:19 | IP: 232.170.216.120 | INFO: User accessed homepage
+2020 Mar 15 10:28:17 | IP: 135.238.56.55 | INFO: User clicked on product
+2020 Mar 15 16:41:33 | IP: 110.51.5.240 | INFO: User clicked on product
+2020 Mar 15 20:03:31 | IP: 35.236.219.244 | INFO: User clicked on product
+2020 Mar 16 01:45:20 | IP: 242.49.61.142 | INFO: User completed a purchase
+2020 Mar 16 01:45:00 | IP: 190.75.58.206 | INFO: User accessed homepage
+2020 Mar 16 08:05:26 | IP: 156.74.185.188 | INFO: User accessed homepage
+2020 Mar 16 09:57:49 | IP: 201.157.128.21 | INFO: User accessed homepage
+2020 Mar 16 12:48:37 | IP: 10.21.8.7 | INFO: User searched for item
+2020 Mar 16 12:45:08 | IP: 17.65.142.234 | INFO: User accessed homepage
+2020 Mar 16 12:41:19 | IP: 219.43.158.41 | INFO: User searched for item
+2020 Mar 16 14:24:13 | IP: 206.136.212.6 | INFO: User clicked on product
+2020 Mar 16 17:18:01 | IP: 253.245.8.75 | INFO: User completed a purchase
+2020 Mar 16 19:52:05 | IP: 77.133.183.96 | INFO: User accessed homepage
+2020 Mar 16 22:50:43 | IP: 85.128.175.218 | INFO: User completed a purchase
+2020 Mar 17 01:53:44 | IP: 147.191.98.196 | INFO: User accessed homepage
+2020 Mar 17 06:53:46 | IP: 64.103.178.230 | INFO: User clicked on product
+2020 Mar 17 06:53:18 | IP: 209.63.81.66 | INFO: User accessed homepage
+2020 Mar 17 14:23:04 | IP: 148.150.62.156 | INFO: User accessed homepage
+2020 Mar 17 17:28:38 | IP: 129.17.89.22 | INFO: User accessed homepage
+2020 Mar 18 00:16:52 | IP: 76.242.240.66 | INFO: User accessed homepage
+2020 Mar 18 00:28:32 | IP: 43.79.61.0 | INFO: User clicked on product
+2020 Mar 18 02:26:11 | IP: 160.217.20.120 | INFO: User completed a purchase
+2020 Mar 18 04:45:43 | IP: 170.93.18.8 | INFO: User clicked on product
+2020 Mar 18 05:07:09 | IP: 26.122.217.69 | INFO: User searched for item
+2020 Mar 18 06:22:00 | IP: 146.89.223.14 | INFO: User accessed homepage
+2020 Mar 18 07:17:22 | IP: 223.221.145.202 | INFO: User clicked on product
+2020 Mar 18 17:09:15 | IP: 113.254.22.48 | INFO: User searched for item
+2020 Mar 18 22:29:25 | IP: 12.19.24.122 | INFO: User searched for item
+2020 Mar 19 01:06:02 | IP: 139.194.162.182 | INFO: User clicked on product
+2020 Mar 19 04:49:19 | IP: 194.213.3.136 | INFO: User accessed homepage
+2020 Mar 19 10:05:51 | IP: 13.255.6.191 | INFO: User accessed homepage
+2020 Mar 19 12:19:40 | IP: 203.159.254.13 | INFO: User completed a purchase
+2020 Mar 19 14:18:56 | IP: 10.144.216.201 | INFO: User completed a purchase
+2020 Mar 19 18:40:34 | IP: 62.173.217.195 | INFO: User clicked on product
+2020 Mar 19 23:28:58 | IP: 230.110.140.255 | INFO: User clicked on product
+2020 Mar 19 23:52:00 | IP: 215.99.114.255 | INFO: User accessed homepage
+2020 Mar 20 01:10:36 | IP: 176.47.53.63 | INFO: User completed a purchase
+2020 Mar 20 05:37:12 | IP: 131.94.190.115 | INFO: User accessed homepage
+2020 Mar 20 06:49:30 | IP: 139.248.20.83 | INFO: User clicked on product
+2020 Mar 20 08:45:15 | IP: 156.76.118.123 | INFO: User searched for item
+2020 Mar 20 10:55:44 | IP: 170.69.158.115 | INFO: User accessed homepage
+2020 Mar 20 14:03:23 | IP: 172.80.41.213 | INFO: User completed a purchase
+2020 Mar 20 16:46:48 | IP: 14.142.95.131 | INFO: User searched for item
+2020 Mar 20 20:16:42 | IP: 82.89.63.7 | INFO: User clicked on product
+2020 Mar 20 20:50:38 | IP: 213.54.15.75 | INFO: User completed a purchase
+2020 Mar 21 00:31:41 | IP: 226.11.120.12 | INFO: User clicked on product
+2020 Mar 21 00:06:51 | IP: 137.178.190.209 | INFO: User searched for item
+2020 Mar 21 01:42:39 | IP: 201.12.176.168 | INFO: User clicked on product
+2020 Mar 21 03:14:21 | IP: 188.58.165.55 | INFO: User clicked on product
+2020 Mar 21 05:22:54 | IP: 59.65.58.132 | INFO: User clicked on product
+2020 Mar 21 07:12:22 | IP: 207.145.98.16 | INFO: User accessed homepage
+2020 Mar 21 11:14:57 | IP: 21.154.193.220 | INFO: User completed a purchase
+2020 Mar 21 17:38:16 | IP: 50.67.188.137 | INFO: User accessed homepage
+2020 Mar 21 19:40:32 | IP: 123.197.251.1 | INFO: User completed a purchase
+2020 Mar 22 01:22:43 | IP: 72.29.160.183 | INFO: User searched for item
+2020 Mar 22 01:39:42 | IP: 49.56.244.112 | INFO: User searched for item
+2020 Mar 22 03:46:17 | IP: 212.57.141.190 | INFO: User completed a purchase
+2020 Mar 22 04:56:30 | IP: 156.137.126.193 | INFO: User searched for item
+2020 Mar 22 04:41:56 | IP: 30.38.46.144 | INFO: User clicked on product
+2020 Mar 22 06:35:06 | IP: 35.42.212.174 | INFO: User completed a purchase
+2020 Mar 22 08:52:07 | IP: 172.164.190.51 | INFO: User clicked on product
+2020 Mar 22 09:33:27 | IP: 139.207.177.109 | INFO: User accessed homepage
+2020 Mar 22 10:42:34 | IP: 52.118.102.148 | INFO: User accessed homepage
+2020 Mar 22 10:42:19 | IP: 231.128.215.160 | INFO: User searched for item
+2020 Mar 22 10:08:55 | IP: 152.169.195.168 | INFO: User accessed homepage
+2020 Mar 22 15:57:45 | IP: 101.67.6.2 | INFO: User clicked on product
+2020 Mar 22 16:26:03 | IP: 3.226.182.255 | INFO: User searched for item
+2020 Mar 22 19:11:54 | IP: 244.204.249.240 | INFO: User completed a purchase
+2020 Mar 22 20:00:11 | IP: 33.54.144.246 | INFO: User searched for item
+2020 Mar 23 03:23:55 | IP: 154.46.159.140 | INFO: User searched for item
+2020 Mar 23 10:49:02 | IP: 45.13.244.240 | INFO: User clicked on product
+2020 Mar 23 10:26:40 | IP: 180.197.250.86 | INFO: User clicked on product
+2020 Mar 23 13:49:49 | IP: 171.139.197.72 | INFO: User clicked on product
+2020 Mar 23 17:26:19 | IP: 22.60.51.80 | INFO: User completed a purchase
+2020 Mar 23 17:32:08 | IP: 143.199.132.17 | INFO: User completed a purchase
+2020 Mar 23 20:18:06 | IP: 152.158.220.177 | INFO: User accessed homepage
+2020 Mar 23 20:12:24 | IP: 167.71.13.105 | INFO: User accessed homepage
+2020 Mar 23 22:03:46 | IP: 154.225.233.22 | INFO: User completed a purchase
+2020 Mar 23 23:04:01 | IP: 47.8.213.18 | INFO: User completed a purchase
+2020 Mar 24 01:58:19 | IP: 66.200.93.251 | INFO: User searched for item
+2020 Mar 24 02:09:46 | IP: 179.189.239.151 | INFO: User clicked on product
+2020 Mar 24 03:38:58 | IP: 86.44.246.145 | INFO: User clicked on product
+2020 Mar 24 04:03:13 | IP: 207.177.119.244 | INFO: User accessed homepage
+2020 Mar 24 08:10:49 | IP: 140.109.176.66 | INFO: User accessed homepage
+2020 Mar 24 10:51:49 | IP: 247.91.128.233 | INFO: User searched for item
+2020 Mar 24 16:11:08 | IP: 136.84.236.22 | INFO: User searched for item
+2020 Mar 24 18:11:46 | IP: 168.121.41.189 | INFO: User completed a purchase
+2020 Mar 24 22:35:40 | IP: 134.207.128.60 | INFO: User clicked on product
+2020 Mar 25 00:55:18 | IP: 95.0.180.13 | INFO: User clicked on product
+2020 Mar 25 09:54:31 | IP: 80.193.9.203 | INFO: User completed a purchase
+2020 Mar 25 11:57:10 | IP: 30.223.85.207 | INFO: User searched for item
+2020 Mar 25 11:49:55 | IP: 9.3.3.62 | INFO: User clicked on product
+2020 Mar 25 12:28:30 | IP: 214.161.230.192 | INFO: User accessed homepage
+2020 Mar 25 17:12:03 | IP: 80.48.71.10 | INFO: User searched for item
+2020 Mar 25 21:37:37 | IP: 228.86.131.175 | INFO: User completed a purchase
+2020 Mar 26 00:17:18 | IP: 193.158.16.130 | INFO: User accessed homepage
+2020 Mar 26 01:11:37 | IP: 52.198.180.41 | INFO: User searched for item
+2020 Mar 26 03:53:57 | IP: 191.97.48.56 | INFO: User completed a purchase
+2020 Mar 26 05:29:56 | IP: 71.137.20.148 | INFO: User completed a purchase
+2020 Mar 26 10:13:41 | IP: 227.76.86.4 | INFO: User accessed homepage
+2020 Mar 26 20:27:28 | IP: 94.34.148.228 | INFO: User searched for item
+2020 Mar 26 21:37:43 | IP: 198.246.139.191 | INFO: User searched for item
+2020 Mar 26 21:36:20 | IP: 167.128.43.166 | INFO: User clicked on product
+2020 Mar 27 00:54:38 | IP: 104.233.69.83 | INFO: User accessed homepage
+2020 Mar 27 00:40:53 | IP: 253.38.243.168 | INFO: User clicked on product
+2020 Mar 27 04:14:59 | IP: 67.144.81.192 | INFO: User accessed homepage
+2020 Mar 27 08:40:46 | IP: 151.124.54.111 | INFO: User accessed homepage
+2020 Mar 27 08:59:12 | IP: 169.59.244.43 | INFO: User clicked on product
+2020 Mar 27 09:39:07 | IP: 169.79.239.238 | INFO: User accessed homepage
+2020 Mar 27 13:40:07 | IP: 138.141.32.247 | INFO: User searched for item
+2020 Mar 27 17:20:00 | IP: 36.34.35.214 | INFO: User completed a purchase
+2020 Mar 27 20:27:35 | IP: 94.204.90.86 | INFO: User searched for item
+2020 Mar 27 22:14:17 | IP: 160.226.183.30 | INFO: User completed a purchase
+2020 Mar 27 22:54:34 | IP: 74.233.83.225 | INFO: User clicked on product
+2020 Mar 28 01:25:51 | IP: 32.241.252.54 | INFO: User searched for item
+2020 Mar 28 03:44:27 | IP: 241.89.72.180 | INFO: User clicked on product
+2020 Mar 28 07:30:46 | IP: 75.113.214.60 | INFO: User accessed homepage
+2020 Mar 28 08:15:16 | IP: 115.69.174.240 | INFO: User clicked on product
+2020 Mar 28 10:31:25 | IP: 190.54.78.12 | INFO: User searched for item
+2020 Mar 28 11:30:20 | IP: 204.169.194.227 | INFO: User completed a purchase
+2020 Mar 28 15:29:32 | IP: 114.133.157.104 | INFO: User completed a purchase
+2020 Mar 28 15:12:41 | IP: 38.184.85.153 | INFO: User completed a purchase
+2020 Mar 28 18:17:22 | IP: 0.56.136.49 | INFO: User accessed homepage
+2020 Mar 28 18:53:54 | IP: 149.88.225.160 | INFO: User searched for item
+2020 Mar 28 19:49:44 | IP: 226.190.226.208 | INFO: User accessed homepage
+2020 Mar 29 00:57:12 | IP: 8.173.38.135 | INFO: User clicked on product
+2020 Mar 29 00:41:27 | IP: 109.250.184.90 | INFO: User searched for item
+2020 Mar 29 05:07:40 | IP: 208.240.229.137 | INFO: User searched for item
+2020 Mar 29 10:19:34 | IP: 193.21.191.0 | INFO: User accessed homepage
+2020 Mar 29 18:18:07 | IP: 25.234.89.230 | INFO: User clicked on product
+2020 Mar 29 20:22:37 | IP: 52.141.187.21 | INFO: User completed a purchase
+2020 Mar 29 21:33:29 | IP: 79.44.204.243 | INFO: User completed a purchase
+2020 Mar 29 22:16:59 | IP: 56.255.193.0 | INFO: User accessed homepage
+2020 Mar 30 05:51:11 | IP: 118.198.162.117 | INFO: User completed a purchase
+2020 Mar 30 07:21:11 | IP: 197.17.63.134 | INFO: User completed a purchase
+2020 Mar 30 10:32:37 | IP: 89.31.190.69 | INFO: User accessed homepage
+2020 Mar 30 10:19:30 | IP: 221.180.58.0 | INFO: User completed a purchase
+2020 Mar 30 12:04:24 | IP: 184.247.4.231 | INFO: User clicked on product
+2020 Mar 30 13:19:01 | IP: 119.86.138.246 | INFO: User completed a purchase
+2020 Mar 30 15:38:30 | IP: 37.242.137.102 | INFO: User searched for item
+2020 Mar 30 16:35:39 | IP: 101.215.24.119 | INFO: User accessed homepage
+2020 Mar 30 20:45:33 | IP: 245.85.181.92 | INFO: User searched for item
+2020 Mar 30 21:42:51 | IP: 247.158.120.136 | INFO: User completed a purchase
+2020 Mar 31 00:48:39 | IP: 170.178.28.158 | INFO: User completed a purchase
+2020 Mar 31 00:43:22 | IP: 47.65.193.241 | INFO: User searched for item
+2020 Mar 31 01:36:36 | IP: 16.181.154.156 | INFO: User searched for item
+2020 Mar 31 06:02:49 | IP: 33.199.147.108 | INFO: User searched for item
+2020 Mar 31 06:33:35 | IP: 104.126.239.106 | INFO: User accessed homepage
+2020 Mar 31 13:53:42 | IP: 64.135.141.236 | INFO: User accessed homepage
+2020 Mar 31 16:31:37 | IP: 124.94.86.215 | INFO: User clicked on product
+2020 Mar 31 17:16:20 | IP: 16.159.27.248 | INFO: User clicked on product
+2020 Mar 31 18:11:08 | IP: 177.242.85.234 | INFO: User completed a purchase
+2020 Mar 31 19:07:31 | IP: 145.198.67.167 | INFO: User accessed homepage
